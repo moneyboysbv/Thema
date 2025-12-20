@@ -1,1 +1,152 @@
-{"type":"header","name":"t:sections.header-group.name","sections":{"announcement":{"type":"announcement","blocks":{"announcement-1":{"type":"announcement","settings":{"text":"PRE-AUTUMN SALE: UP TO 60% OFF","link_text":"","link":""}},"announcement_U3Tzjd":{"type":"announcement","settings":{"text":"30-DAY MONEY-BACK GUARANTEE","link_text":"","link":""}},"announcement_rJUdAk":{"type":"announcement","settings":{"text":"ONLY TODAY FREE SHIPPING ON ALL ORDERS","link_text":"","link":""}}},"block_order":["announcement-1","announcement_U3Tzjd","announcement_rJUdAk"],"disabled":true,"custom_css":[".announcement-bar {font-size: 12px !important; \/* Pas aan naar gewenste grootte *\/}"],"settings":{"announcement_compact":true}},"scrolling_announcement_bar_9pcDe6":{"type":"scrolling-announcement-bar","blocks":{"text_VGKLQR":{"type":"text","settings":{"text":"WE CLOSE OUR STORE TONIGHT AT 11:59 PM — LAST CHANCE TO SHOP"}},"text_Y9bkwP":{"type":"text","settings":{"text":"FREE UPS SHIPPING ACROSS THE USA — NO MINIMUM"}},"text_JxxYDD":{"type":"text","settings":{"text":"FINAL ITEMS REMAINING — ONCE IT’S GONE, IT’S GONE"}},"text_qCeRRG":{"type":"text","disabled":true,"settings":{"text":"ORDER BEFORE 11:00 PM, SHIPPED THE NEXT DAY"}},"text_KeRyka":{"type":"text","disabled":true,"settings":{"text":"ANNIVERSARY SALE ENDS TONIGHT AT 11:59 PM"}}},"block_order":["text_VGKLQR","text_Y9bkwP","text_JxxYDD","text_qCeRRG","text_KeRyka"],"name":"Scrolling announcement bar","settings":{"insert_css_class_target":"","text_custom":true,"ss_font_family":"montserrat_n4","text_size":12,"link":"","animation_duration":160,"animation_direction":"left","pause_hover":false,"text_color":"#ffffff","bg":"#000000","hover_opacity":0,"padding_vertical":0.7,"padding_horizontal":0}},"header":{"type":"header","blocks":{"header-0":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/AS_500_x_157_px_500_x_129_px_1_68ef6184-29b5-4caa-8213-14b2e04d79c5.png","logo-inverted":"shopify:\/\/shop_images\/AS_500_x_157_px_500_x_129_px_2_31f57de0-28fa-40e7-b45e-650a3e3e9035.png","desktop_logo_width":190,"mobile_logo_width":160}}},"block_order":["header-0"],"settings":{"main_menu_link_list":"hoofd","hover_menu":true,"mega_menu_images":true,"main_menu_alignment":"center","header_style":"normal","sticky_index":false,"sticky_collection":false,"toolbar_menu":"","toolbar_social":true,"show_locale_selector":true,"show_currency_selector":false,"show_currency_flags":false}}},"order":["announcement","scrolling_announcement_bar_9pcDe6","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "t:sections.header-group.name",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "PRE-AUTUMN SALE: UP TO 60% OFF",
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "announcement_U3Tzjd": {
+          "type": "announcement",
+          "settings": {
+            "text": "30-DAY MONEY-BACK GUARANTEE",
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "announcement_rJUdAk": {
+          "type": "announcement",
+          "settings": {
+            "text": "ONLY TODAY FREE SHIPPING ON ALL ORDERS",
+            "link_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-1",
+        "announcement_U3Tzjd",
+        "announcement_rJUdAk"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".announcement-bar {font-size: 12px !important; /* Pas aan naar gewenste grootte */}"
+      ],
+      "settings": {
+        "announcement_compact": true
+      }
+    },
+    "scrolling_announcement_bar_9pcDe6": {
+      "type": "scrolling-announcement-bar",
+      "blocks": {
+        "text_VGKLQR": {
+          "type": "text",
+          "settings": {
+            "text": "WE CLOSE OUR STORE TONIGHT AT 11:59 PM — LAST CHANCE TO SHOP"
+          }
+        },
+        "text_Y9bkwP": {
+          "type": "text",
+          "settings": {
+            "text": "FREE UPS SHIPPING ACROSS THE USA — NO MINIMUM"
+          }
+        },
+        "text_JxxYDD": {
+          "type": "text",
+          "settings": {
+            "text": "FINAL ITEMS REMAINING — ONCE IT’S GONE, IT’S GONE"
+          }
+        },
+        "text_qCeRRG": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "ORDER BEFORE 11:00 PM, SHIPPED THE NEXT DAY"
+          }
+        },
+        "text_KeRyka": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "ANNIVERSARY SALE ENDS TONIGHT AT 11:59 PM"
+          }
+        }
+      },
+      "block_order": [
+        "text_VGKLQR",
+        "text_Y9bkwP",
+        "text_JxxYDD",
+        "text_qCeRRG",
+        "text_KeRyka"
+      ],
+      "name": "Scrolling announcement bar",
+      "settings": {
+        "insert_css_class_target": "",
+        "text_custom": true,
+        "ss_font_family": "montserrat_n4",
+        "text_size": 12,
+        "link": "",
+        "animation_duration": 160,
+        "animation_direction": "left",
+        "pause_hover": false,
+        "text_color": "#ffffff",
+        "bg": "#000000",
+        "hover_opacity": 0,
+        "padding_vertical": 0.7,
+        "padding_horizontal": 0
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "header-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1_a2e0e16d-dd88-4a80-b609-252ef399a641.png",
+            "logo-inverted": "shopify://shop_images/2_9f5982c4-39cb-4957-96a2-a32417691b78.png",
+            "desktop_logo_width": 280,
+            "mobile_logo_width": 190
+          }
+        }
+      },
+      "block_order": [
+        "header-0"
+      ],
+      "settings": {
+        "main_menu_link_list": "",
+        "hover_menu": true,
+        "mega_menu_images": true,
+        "main_menu_alignment": "center",
+        "header_style": "normal",
+        "sticky_index": false,
+        "sticky_collection": false,
+        "toolbar_menu": "",
+        "toolbar_social": true,
+        "show_locale_selector": true,
+        "show_currency_selector": false,
+        "show_currency_flags": false
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "scrolling_announcement_bar_9pcDe6",
+    "header"
+  ]
+}
