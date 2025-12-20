@@ -25,6 +25,7 @@
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/91384296-6c6e-4543-bbc2-5b7ae6faf635.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 10
           }
@@ -47,7 +48,9 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/2_b634695e-da3a-47e9-9f45-4d6033885314.png",
         "image_mask": "none",
+        "image2": "shopify://shop_images/1_403308c6-1807-4699-9229-bf668242f5f0.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Arthur & Claire",
