@@ -1,1 +1,244 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"top_subheading":"","title":"Thank You for Being Part of Our Story","title_size":50,"subheading":"We’re Closing Our Doors — Enjoy Up to 70% Off","link":"shopify:\/\/collections","link_text":"Shop Now","link_2":"shopify:\/\/collections\/herr","link_text_2":"","color_accent":"#000000","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/9c46efad-523e-4e5f-8a81-c44048276af6.jpg","parallax_direction":"top","overlay_opacity":10}}},"block_order":["slideshow-0"],"settings":{"section_height":"450px","mobile_height":"auto","parallax":false,"style":"bars","autoplay":false,"autoplay_speed":7,"lazyload_images":true}},"text_and_image_nfpwGg":{"type":"text-and-image","name":"t:sections.text-and-image.presets.image_with_text.name","settings":{"image":"shopify:\/\/shop_images\/ChatGPT_Image_18_okt_2025_12_02_05_8fbe8375-e981-452a-ab48-57706a42e668.png","image_mask":"none","image2":"shopify:\/\/shop_images\/ChatGPT_Image_30_nov_2025_10_10_27.png","image2_mask":"none","subtitle":"","title":"Arthur & Claire","text":"<p>Our journey with <em><strong>Arthur & Claire New York <\/strong><\/em>began with a simple dream: to create something meaningful. We’ve always shared a love for fashion, craftsmanship, and building a space that felt personal and inspiring. Over the years, our store became more than a boutique — it became a place filled with conversations, connections, and unforgettable moments.<\/p><p>With heavy hearts, we’ve made the decision to close our doors.<br\/><br\/>It wasn’t an easy choice, but we take it with deep gratitude. Grateful for every customer, every kind word, every person who became part of our story.<\/p><p>To say goodbye in the most honest way, we are holding a <strong>closure sale<\/strong> — a final thank-you to everyone who supported us and believed in what we created.<\/p><p><strong>From the bottom of our hearts, thank you.<\/strong><\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"580bc108-8f79-4c00-b080-103cccb091ef":{"type":"featured-collection","settings":{"title":"OUR FAVORITES","home_featured_products":"bestseller","per_row":4,"rows":2,"mobile_scrollable":true,"view_all":true,"divider":false}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"title":"Autumn Collection"}},"text":{"type":"text","settings":{"enlarge_text":false,"text":"<p>At <strong>Lisa & Peter London<\/strong>, we are already embracing the brand-new autumn collection. We make sure to always provide high-quality products and stylish choices, so you can step into the season looking your best in the latest trends.<\/p><p>Browse our products below and explore the full collections.<\/p>"}}},"block_order":["heading","text"],"disabled":true,"settings":{"align_text":"center","narrow_column":true,"divider":false}},"featured-collection":{"type":"featured-collection","disabled":true,"settings":{"title":"Very popular at the moment","home_featured_products":"blazers","per_row":4,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"featured_collections_cfHkr4":{"type":"featured-collections","blocks":{"collection_3c6EHD":{"type":"collection","settings":{"collection":"cardigan","title":"","focal_point":"center center"}},"collection_AeLxPN":{"type":"collection","settings":{"collection":"jackets","title":"","focal_point":"center center"}},"collection_XQTnUH":{"type":"collection","settings":{"collection":"vintage-knit-sweater","title":"","focal_point":"center center"}},"collection_ATJQQ3":{"type":"collection","settings":{"collection":"comfort-shoes","title":"","focal_point":"center center"}}},"block_order":["collection_3c6EHD","collection_AeLxPN","collection_XQTnUH","collection_ATJQQ3"],"name":"t:sections.featured-collections.presets.collection_list.name","settings":{"title":"MOST LOVED COLLECTIONS","divider":false,"per_row":4,"enable_gutter":true}},"testimonials_fMUe9F":{"type":"testimonials","blocks":{"testimonial_gjjViq":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“The order arrived beautifully packaged and in perfect condition. You can really feel the quality of the fabric.”<\/p>","author":"Emma J.","author_info":"Denver – 12 hours ago"}},"testimonial_tJjern":{"type":"testimonial","settings":{"icon":"4-stars","testimonial":"<p>“Great service from ArthurClaireNewYork The clothes fit perfectly and the personal touch really makes a difference.”<\/p>","author":"Claire W.","author_info":"NewYork – 1 day ago"}},"testimonial_X3ga9m":{"type":"testimonial","settings":{"icon":"4-stars","testimonial":"<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”<\/p>","author":"Sarah M.","author_info":"Charleston – 2 days ago"}},"testimonial_WzAyUz":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”<\/p>","author":"Olivia R.","author_info":"Boston – 3 days ago"}},"testimonial_W7FMQc":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>“My package arrived safely and beautifully presented. Lisa & Peter London make online shopping feel truly personal.”<\/p>","author":"Helen P.","author_info":"Minneapolis – 5 days ago"}}},"block_order":["testimonial_gjjViq","testimonial_tJjern","testimonial_X3ga9m","testimonial_WzAyUz","testimonial_W7FMQc"],"settings":{"title":"What customers have to say about Arthur & Claire NewYork","align_text":"center","round_images":true,"color_background":"#ffffff","color_text":"#1c1d1d"}}},"order":["slideshow","text_and_image_nfpwGg","580bc108-8f79-4c00-b080-103cccb091ef","rich-text","featured-collection","featured_collections_cfHkr4","testimonials_fMUe9F"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Thank You for Being Part of Our Story",
+            "title_size": 50,
+            "subheading": "We’re Closing Our Doors — Enjoy Up to 70% Off",
+            "link": "shopify://collections",
+            "link_text": "Shop Now",
+            "link_2": "shopify://collections/herr",
+            "link_text_2": "",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_nfpwGg": {
+      "type": "text-and-image",
+      "name": "t:sections.text-and-image.presets.image_with_text.name",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Arthur & Claire",
+        "text": "<p>Our journey with <em><strong>Oliver & Celine New York </strong></em>began with a simple dream: to create something meaningful. We’ve always shared a love for fashion, craftsmanship, and building a space that felt personal and inspiring. Over the years, our store became more than a boutique — it became a place filled with conversations, connections, and unforgettable moments.</p><p>With heavy hearts, we’ve made the decision to close our doors.<br/><br/>It wasn’t an easy choice, but we take it with deep gratitude. Grateful for every customer, every kind word, every person who became part of our story.</p><p>To say goodbye in the most honest way, we are holding a <strong>closure sale</strong> — a final thank-you to everyone who supported us and believed in what we created.</p><p><strong>From the bottom of our hearts, thank you.</strong></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "580bc108-8f79-4c00-b080-103cccb091ef": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "OUR FAVORITES",
+        "home_featured_products": "bestseller",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Autumn Collection"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>At <strong>Lisa & Peter London</strong>, we are already embracing the brand-new autumn collection. We make sure to always provide high-quality products and stylish choices, so you can step into the season looking your best in the latest trends.</p><p>Browse our products below and explore the full collections.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Very popular at the moment",
+        "home_featured_products": "blazers",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collections_cfHkr4": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3c6EHD": {
+          "type": "collection",
+          "settings": {
+            "collection": "cardigan",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_AeLxPN": {
+          "type": "collection",
+          "settings": {
+            "collection": "jackets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_XQTnUH": {
+          "type": "collection",
+          "settings": {
+            "collection": "vintage-knit-sweater",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_ATJQQ3": {
+          "type": "collection",
+          "settings": {
+            "collection": "comfort-shoes",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3c6EHD",
+        "collection_AeLxPN",
+        "collection_XQTnUH",
+        "collection_ATJQQ3"
+      ],
+      "name": "t:sections.featured-collections.presets.collection_list.name",
+      "settings": {
+        "title": "MOST LOVED COLLECTIONS",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "testimonials_fMUe9F": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_gjjViq": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“The order arrived beautifully packaged and in perfect condition. You can really feel the quality of the fabric.”</p>",
+            "author": "Emma J.",
+            "author_info": "Denver – 12 hours ago"
+          }
+        },
+        "testimonial_tJjern": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>“Great service from OliverCelineNewYork The clothes fit perfectly and the personal touch really makes a difference.”</p>",
+            "author": "Claire W.",
+            "author_info": "NewYork – 1 day ago"
+          }
+        },
+        "testimonial_X3ga9m": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "4-stars",
+            "testimonial": "<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”</p>",
+            "author": "Sarah M.",
+            "author_info": "Charleston – 2 days ago"
+          }
+        },
+        "testimonial_WzAyUz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”</p>",
+            "author": "Olivia R.",
+            "author_info": "Boston – 3 days ago"
+          }
+        },
+        "testimonial_W7FMQc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>“My package arrived safely and beautifully presented. Oliver & Celine New York make online shopping feel truly personal.”</p>",
+            "author": "Helen P.",
+            "author_info": "Minneapolis – 5 days ago"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_gjjViq",
+        "testimonial_tJjern",
+        "testimonial_X3ga9m",
+        "testimonial_WzAyUz",
+        "testimonial_W7FMQc"
+      ],
+      "settings": {
+        "title": "What customers have to say about Oliver & Celine New York",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "text_and_image_nfpwGg",
+    "580bc108-8f79-4c00-b080-103cccb091ef",
+    "rich-text",
+    "featured-collection",
+    "featured_collections_cfHkr4",
+    "testimonials_fMUe9F"
+  ]
+}
