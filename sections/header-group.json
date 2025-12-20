@@ -129,7 +129,7 @@
         "header-0"
       ],
       "settings": {
-        "main_menu_link_list": "",
+        "main_menu_link_list": "hoofd",
         "hover_menu": true,
         "mega_menu_images": true,
         "main_menu_alignment": "center",
