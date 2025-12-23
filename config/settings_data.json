@@ -113,6 +113,41 @@
           "switch_on_hover": true,
           "preselect_variant": false
         }
+      },
+      "17198465164502963513": {
+        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
+        "disabled": false,
+        "settings": {}
+      },
+      "14952540001915115444": {
+        "type": "shopify://apps/upcart-cart-drawer/blocks/app-embed/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
+      "10312807297210203588": {
+        "type": "shopify://apps/aftersell-by-rokt/blocks/utm-triggers/509ec35d-0632-4dfc-a105-fa799cd9d149",
+        "disabled": true,
+        "settings": {}
+      },
+      "15626701136048320768": {
+        "type": "shopify://apps/abconvert/blocks/app-embed-custom-label/5c6be9a4-14ad-4ad6-a0b5-a41137ce4ddf",
+        "disabled": true,
+        "settings": {}
+      },
+      "8180082907217142696": {
+        "type": "shopify://apps/abconvert/blocks/app-embed-shipping/5c6be9a4-14ad-4ad6-a0b5-a41137ce4ddf",
+        "disabled": true,
+        "settings": {}
+      },
+      "11597759809273779251": {
+        "type": "shopify://apps/abconvert/blocks/app-embed-theme-test-clear-cache/5c6be9a4-14ad-4ad6-a0b5-a41137ce4ddf",
+        "disabled": true,
+        "settings": {}
       }
     }
   },
